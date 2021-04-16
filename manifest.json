@@ -78,9 +78,9 @@
       "logoURI": "https://hecoinfo.com/token/images/HUSD_32.png"
     },
     {
-      "name": "TS1  Token",
+      "name": "TS122  Token",
       "chainId": 128,
-      "symbol": "TS111",
+      "symbol": "TS11122",
       "decimals": 18,
       "address": "0x709360fEE9C87759f62C87Aaff2948d37e1836Ff",
       "logoURI": "http://80.251.212.126/logo/tokenlist/0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047.png"
