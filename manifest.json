@@ -11,7 +11,7 @@
     "trusted"
   ],
   "logoURI": "https://mos-wallet-public.oss-cn-hangzhou.aliyuncs.com/mos/BXH/picture/HT.png",
-  "timestamp": "2021-03-23T14:15:22+0000",
+  "timestamp": "2021-04-15T14:15:22+0000",
   "tokens": [
     {
       "name": "Heco-Peg USDTHECO Token",
@@ -80,7 +80,7 @@
     {
       "name": "TS1  Token",
       "chainId": 128,
-      "symbol": "TS1",
+      "symbol": "TS111",
       "decimals": 18,
       "address": "0x709360fEE9C87759f62C87Aaff2948d37e1836Ff",
       "logoURI": "http://80.251.212.126/logo/tokenlist/0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047.png"
