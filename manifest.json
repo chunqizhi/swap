@@ -28,6 +28,54 @@
       "decimals": 18,
       "address": "0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
       "logoURI": "https://hecoinfo.com/token/images/HT_32.png"
+    },
+    {
+      "name": "MDX Token",
+      "chainId": 128,
+      "symbol": "MDX",
+      "decimals": 18,
+      "address": "0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c",
+      "logoURI": "https://hecoinfo.com/token/images/mdex_32.png"
+    },
+    {
+      "name": "BXH Token",
+      "chainId": 128,
+      "symbol": "BXH",
+      "decimals": 18,
+      "address": "0xcbd6cb9243d8e3381fea611ef023e17d1b7aedf0",
+      "logoURI": "https://hecoinfo.com/token/images/bxh_32.png?=v2"
+    },
+    {
+      "name": "TokenPocket Token",
+      "chainId": 128,
+      "symbol": "TPT",
+      "decimals": 4,
+      "address": "0x9ef1918a9bee17054b35108bd3e2665e2af1bb1b",
+      "logoURI": "https://s2.bqiapp.com/logo/1/tokenpocket.png?x-oss-process=style/coin_72"
+    },
+    {
+      "name": "Heco-Peg ETH Token",
+      "chainId": 128,
+      "symbol": "ETH",
+      "decimals": 18,
+      "address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+      "logoURI": "https://hecoinfo.com/token/images/HETH_32.png"
+    },
+    {
+      "name": "Heco-Peg HBTC Token",
+      "chainId": 128,
+      "symbol": "HBTC",
+      "decimals": 18,
+      "address": "0x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+      "logoURI": "https://hecoinfo.com/token/images/HBTC_32.png"
+    },
+    {
+      "name": "Heco-Peg HUSD Token",
+      "chainId": 128,
+      "symbol": "HUSD",
+      "decimals": 8,
+      "address": "0x0298c2b32eae4da002a15f36fdf7615bea3da047",
+      "logoURI": "https://hecoinfo.com/token/images/HUSD_32.png"
     }
   ]
 }
