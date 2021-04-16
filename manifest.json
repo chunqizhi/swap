@@ -1,12 +1,12 @@
 {
-  "name": "Gemini Token List",
+  "name": "Treeswap Token List",
   "version": {
     "major": 0,
     "minor": 2,
     "patch": 0
   },
   "keywords": [
-    "gemini",
+    "treeswap",
     "tokens",
     "trusted"
   ],
