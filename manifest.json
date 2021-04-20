@@ -10,79 +10,87 @@
     "tokens",
     "trusted"
   ],
-  "logoURI": "https://mos-wallet-public.oss-cn-hangzhou.aliyuncs.com/mos/BXH/picture/HT.png",
-  "timestamp": "2021-04-15T14:15:22+0000",
+  "logoURI": "http://80.251.212.126/logo/tokenlist/HT.png",
+  "timestamp": "2021-03-23T14:15:22+0000",
   "tokens": [
     {
       "name": "Heco-Peg USDTHECO Token",
       "chainId": 128,
       "symbol": "USDT",
       "decimals": 18,
-      "address": "0xa71edc38d189767582c38a3145b5873052c3e47a",
-      "logoURI": "https://hecoinfo.com/token/images/USDTHECO_32.png"
+      "address": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
+      "logoURI": "http://80.251.212.126/logo/tokenlist/0xa71EdC38d189767582C38A3145b5873052c3e47a.png"
     },
     {
       "name": "Wrapped HT",
       "chainId": 128,
       "symbol": "WHT",
       "decimals": 18,
-      "address": "0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
-      "logoURI": "https://hecoinfo.com/token/images/HT_32.png"
+      "address": "0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F",
+      "logoURI": "http://80.251.212.126/logo/tokenlist/0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F.png"
     },
     {
       "name": "MDX Token",
       "chainId": 128,
       "symbol": "MDX",
       "decimals": 18,
-      "address": "0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c",
-      "logoURI": "http://80.251.212.126/logo/mdx_32.png"
+      "address": "0x25D2e80cB6B86881Fd7e07dd263Fb79f4AbE033c",
+      "logoURI": "http://80.251.212.126/logo/tokenlist/0x25D2e80cB6B86881Fd7e07dd263Fb79f4AbE033c.png"
     },
     {
       "name": "BXH Token",
       "chainId": 128,
       "symbol": "BXH",
       "decimals": 18,
-      "address": "0xcbd6cb9243d8e3381fea611ef023e17d1b7aedf0",
-      "logoURI": "https://hecoinfo.com/token/images/bxh_32.png?=v2"
+      "address": "0xcBD6Cb9243d8e3381Fea611EF023e17D1B7AeDF0",
+      "logoURI": "http://80.251.212.126/logo/tokenlist/0xcBD6Cb9243d8e3381Fea611EF023e17D1B7AeDF0.png"
     },
     {
       "name": "TokenPocket Token",
       "chainId": 128,
       "symbol": "TPT",
       "decimals": 4,
-      "address": "0x9ef1918a9bee17054b35108bd3e2665e2af1bb1b",
-      "logoURI": "https://mdex.com/token-icons/heco/0x9ef1918a9bee17054b35108bd3e2665e2af1bb1b.png"
+      "address": "0x9ef1918a9beE17054B35108bD3E2665e2Af1Bb1b",
+      "logoURI": "http://80.251.212.126/logo/tokenlist/0x9ef1918a9beE17054B35108bD3E2665e2Af1Bb1b.png"
     },
     {
       "name": "Heco-Peg ETH Token",
       "chainId": 128,
       "symbol": "ETH",
       "decimals": 18,
-      "address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
-      "logoURI": "https://hecoinfo.com/token/images/HETH_32.png"
+      "address": "0x64FF637fB478863B7468bc97D30a5bF3A428a1fD",
+      "logoURI": "http://80.251.212.126/logo/tokenlist/0x64FF637fB478863B7468bc97D30a5bF3A428a1fD.png"
     },
     {
       "name": "Heco-Peg HBTC Token",
       "chainId": 128,
       "symbol": "HBTC",
       "decimals": 18,
-      "address": "0x66a79d23e58475d2738179ca52cd0b41d73f0bea",
-      "logoURI": "https://hecoinfo.com/token/images/HBTC_32.png"
+      "address": "0x66a79D23E58475D2738179Ca52cd0b41d73f0BEa",
+      "logoURI": "http://80.251.212.126/logo/tokenlist/0x66a79D23E58475D2738179Ca52cd0b41d73f0BEa.png"
     },
     {
       "name": "Heco-Peg HUSD Token",
       "chainId": 128,
       "symbol": "HUSD",
       "decimals": 8,
-      "address": "0x0298c2b32eae4da002a15f36fdf7615bea3da047",
-      "logoURI": "https://hecoinfo.com/token/images/HUSD_32.png"
+      "address": "0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047",
+      "logoURI": "http://80.251.212.126/logo/tokenlist/0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047.png"
     },
     {
-      "name": "TS12233  Token",
+      "name": "TS1  Token",
       "chainId": 128,
-      "symbol": "TS1112233",
+      "symbol": "TS1",
       "decimals": 18,
       "address": "0x709360fEE9C87759f62C87Aaff2948d37e1836Ff",
+      "logoURI": "http://80.251.212.126/logo/tokenlist/0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047.png"
+    },
+    {
+      "name": "TS2  Token",
+      "chainId": 128,
+      "symbol": "TS2",
+      "decimals": 18,
+      "address": "0x0C88c8698417F8ab01FbF6a8a595b35747A3C1e5",
       "logoURI": "http://80.251.212.126/logo/tokenlist/0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047.png"
     }
   ]
